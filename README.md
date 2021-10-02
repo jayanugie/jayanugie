@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayanugie
-- 👀 I’m interested in digital world.
+- 👀 I’m interested in programming world.
 - 🌱 I’m currently learning how to be software developer.
 - 💞️ I’m looking to collaborate on dicoding.
 - 📫 How to reach me? Email: jayanugie14@gmail.com
