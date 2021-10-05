@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayanugie
 - 👀 I’m interested in programming world.
-- 🌱 I’m currently learning how to be software developer.
-- 💞️ I’m looking to collaborate on dicoding.
+- 🌱 I’m currently learning how to be front end web developer.
+- 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me? Email: jayanugie14@gmail.com
 
 <!---
